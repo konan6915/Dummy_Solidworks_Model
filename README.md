@@ -1,0 +1,2 @@
+# Dummy_Solidworks_Model
+稚晖君Dummy机械臂Solidworks三维模型
